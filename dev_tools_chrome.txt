@@ -1,0 +1,9 @@
+If you want to be a developer, you need to add some tools . So further we do something write down some tools name.
+
+
+1. postman
+2. react for chrome
+3. redux for chrome
+4. components
+
+etc

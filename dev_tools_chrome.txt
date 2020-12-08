@@ -6,4 +6,6 @@ If you want to be a developer, you need to add some tools . So further we do som
 3. redux for chrome
 4. components
 
-etc
+etc.
+
+Make some new project to ensure these tools are working.

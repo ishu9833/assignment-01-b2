@@ -1,3 +1,7 @@
 Each month, about 50 million people visit Stack Overflow to learn, share, and build their careers. 
 Industry estimates suggest that 20-25 million of these people are professional developers and university-level students. 
+
+
 The vast majority of our survey respondents this year said they are professional developers or who code sometimes as part of their work or students preparing for such a career
+About 55% of respondents identify as full-stack developers, and about 20% consider themselves mobile developers. The median number of developer type identifications per respondent this year is three, and the most common combinations include back-end, front-end, and full-stack developer. Pairs that are highly correlated include database administrator and system administrator, DevOps specialist and site reliability engineer, 
+academic researcher and scientist, and designer and front-end developer.
